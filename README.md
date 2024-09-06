@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Scriptedbakr
 - 👀 I’m interested in software engineering and analytics
-- 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on web app development
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him/king
